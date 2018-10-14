@@ -1,6 +1,6 @@
 {
   "name": "mofron-effect-invclr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "invert color effect for mofron",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-effect-invclr.git"
+  },
+  "dependencies": {
+      "mofron-event-invclr" : ""
   },
   "keywords": [
     "front-end"
